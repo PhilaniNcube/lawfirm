@@ -7,7 +7,7 @@ function Newsletter() {
           <div className="md:w-1/2 w-full rounded-lg">
             <img
               src="https://tuk-cdn.s3.amazonaws.com/assets/components/newsletter/nl_2.png"
-              alt
+              alt=""
               className="h-full w-full object-cover rounded-md shadow"
             />
           </div>
