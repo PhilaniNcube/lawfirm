@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React from 'react';
 function Team() {
   return (
@@ -34,7 +35,7 @@ function Team() {
                     Chief Executive Officer
                   </p>
                   <p className="text-center text-slate-600 text-base pt-3 font-normal">
-                    The CEO's role in raising a company's corporate IQ is to
+                    The CEOs role in raising a companys corporate IQ is to
                     establish an atmosphere that promotes knowledge sharing and
                     collaboration.
                   </p>
@@ -306,8 +307,8 @@ function Team() {
                   <p className="text-slate-800 text-sm text-center">Partner</p>
                   <p className="text-center text-slate-600 text-base pt-3 font-normal">
                     A UX designer is the voice of the customer. Our job is to
-                    look beyond the business goals. We don't just experience
-                    user interface but also questions it.
+                    look beyond the business goals. We dont just experience user
+                    interface but also questions it.
                   </p>
                   <div className="w-full flex justify-center pt-5 pb-5">
                     <a className="mx-5">
@@ -484,8 +485,8 @@ function Team() {
                   <p className="text-slate-800 text-sm text-center">Partner</p>
                   <p className="text-center text-slate-600 text-base pt-3 font-normal">
                     A UX designer is the voice of the customer. Our job is to
-                    look beyond the business goals. We don't just experience
-                    user interface but also questions it.
+                    look beyond the business goals. We dont just experience user
+                    interface but also questions it.
                   </p>
                   <div className="w-full flex justify-center pt-5 pb-5">
                     <a className="mx-5">
